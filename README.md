@@ -222,8 +222,11 @@ int main()
 
 ## Output Explanation
 ### ORIGINAL IMAGE
+
 <img width="1749" height="980" alt="image" src="https://github.com/user-attachments/assets/d4f756d2-8cf9-42d3-ac14-b1e0be5274c0" />
+
 ### OUTPUT IMAGE
+
 <img width="635" height="366" alt="image" src="https://github.com/user-attachments/assets/fe1c8cbc-dcec-49ac-96eb-e9bb7c356b94" />
 
 
